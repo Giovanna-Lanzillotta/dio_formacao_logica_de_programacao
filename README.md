@@ -232,3 +232,8 @@ console.log(resultado1);
 let resultado2 = dobrarNumero(5);
 console.log(resultado2);
 ~~~
+
+
+### Estrutura de Dados
+
+#### Estrutura de Dados JSON
